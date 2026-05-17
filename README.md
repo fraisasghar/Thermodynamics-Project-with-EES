@@ -13,5 +13,5 @@ We Automated the home using Microcontroller and different Sensors and also simul
 
 
 012345
-0123456
+012345
 012345
