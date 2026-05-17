@@ -12,6 +12,6 @@ We Automated the home using Microcontroller and different Sensors and also simul
 
 
 
-0123456
+012345
 0123456
 0123456
