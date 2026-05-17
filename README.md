@@ -14,4 +14,4 @@ We Automated the home using Microcontroller and different Sensors and also simul
 
 0123
 0123
-0123
+012
