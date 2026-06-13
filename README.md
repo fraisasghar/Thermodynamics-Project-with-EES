@@ -16,4 +16,3 @@
   <img src="https://img.shields.io/badge/Regenerator-90%25-2196F3?style=for-the-badge" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=cc2200&height=2">
